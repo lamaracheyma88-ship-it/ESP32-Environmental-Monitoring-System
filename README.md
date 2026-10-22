@@ -1,2 +1,2 @@
 # ESP32-Environmental-Monitoring-System
-Electronics and AI student interested in  Embedded Systems and electronic projects .Currently documenting my first ESP32-based  environmental monitoring project
+ESP32-based environmental monitoring system simulated with electronic sensors , an OLED display ,LED , and buzzer
