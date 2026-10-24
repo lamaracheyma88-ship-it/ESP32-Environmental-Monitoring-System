@@ -50,7 +50,7 @@ The following components are used in the simulation:
 
 The project uses the following libraries:
 
-- Wire
+- Wire(built-in Arduino library for I2C communication)
 - DHT
 - Adafruit GFX
 - Adafruit SSD1306
