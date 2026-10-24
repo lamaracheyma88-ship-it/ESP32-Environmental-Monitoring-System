@@ -1,0 +1,29 @@
+Esp32 Environmental Monitoring system
+
+scribe documentation links
+
+01-wokwi setup and components
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Setting_Up_an_ESP32_Project_with_Multiple_Sensors_on_Wokwi__3jZQBgNyRUe9mQlYiyPIYw]
+
+
+02-circuit wiring
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Connecting_ESP32_With_Sensors_In_Wokwi__cwpUK7PCSbyoSlbkrmY1EA]
+
+
+
+03-component code tests
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Programming_an_Ultrasonic_Distance_Sensor_with_ESP32_in_Wokwi__wT92MRqjT7SbLCfVX1OTjg] 
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Build_an_ESP32_Environmental_Monitor_in_Wokwi__GxP9A1YLQgK0BOM6PbgFWw]
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Setting_Up_A_DHT_Sensor_With_ESP32_In_Wokwi__kljjQjvbThuN03IJFEmlyA]
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Setting_Up_A_DHT22_Temperature_Sensor_With_ESP32_On_Wokwi__xsMbWBf_Qc-Ds--xrN7PIQ]
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Programming_an_Ultrasonic_Distance_Sensor_with_ESP32_in_Wokwi__3C-_Ak5OT2GTFHfesWvfug]
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Build_A_Motion_Sensor_Alarm_System_With_ESP32__7xKahV7-STuuPLr5FcO7QA]
+
+
+04-component code testing and initial code development
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Creating_an_Autonomous_Environmental_Monitoring_System_with_ESP32__dz7SnWMlQlCI6G0YMuDBMg]
+
+
+05-final code
+[https://scribehow.com/o/9FMFCXoQTL6gQEk75RTpUg/viewer/Creating_an_ESP32_Autonomous_Environmental_Monitoring_System__kr1UkHRUSJKiQyAV7qF0sg]
+
