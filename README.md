@@ -12,6 +12,10 @@ Sensor readings are processed by the ESP32 and displayed on an OLED screen. When
 
 This project demonstrates the practical application of microcontroller programming, sensor integration, and threshold-based monitoring in an embedded system.
 
+You can access the project simulation here:
+
+[open the project on Wokwi](https://wokwi.com/projects/478526497631101953).
+
 ## 2. Project Objectives
 
 The main objectives of this project are to:
@@ -89,8 +93,6 @@ During testing, the LED activated and the buzzer produced sound in response to a
 These tests demonstrate the interaction between the ESP32, the connected sensors, and the output devices within the simulated environment.
 
 The results represent simulation behavior and do not constitute physical hardware testing.
-You can access the project simulation here:
-[open the project on Wokwi](https://wokwi.com/projects/478526497631101953).
 
 ## 7. Project Files
 
